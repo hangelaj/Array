@@ -1,5 +1,4 @@
-public class Array1 {
-
+public class AccessElements_array {
 
     public static void main(String[] args) {
         String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
